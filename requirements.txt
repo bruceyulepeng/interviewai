@@ -1,0 +1,7 @@
+Flask
+FastAPI
+torch  # or tensorflow
+transformers
+spacy
+opencv-python
+three.js
